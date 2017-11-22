@@ -1,5 +1,13 @@
 # tandem-releases
 
+## v0.2.1 (Silk Raccoon, alpha)
+
+- Tandem-0.2.0.dmg (sha256: c8822453ee6a1af47e4db8cde8b62cc00f1f5453c219ba6d4c573cece0ae89ac)
+
+### Features
+
+- Fix application menu bug that prevented quiting when connected.
+
 ## v0.2.0 (Silk Raccoon, alpha)
 
 - Tandem-0.2.0.dmg (sha256: d1112a3be04b699ac3a036ebb3f0e01ad4c43a06abc201df99fdb7a3ad3424f8)
