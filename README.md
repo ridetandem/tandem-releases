@@ -2,7 +2,7 @@
 
 ## v0.2.1 (Silk Raccoon, alpha)
 
-- Tandem-0.2.0.dmg (sha256: c8822453ee6a1af47e4db8cde8b62cc00f1f5453c219ba6d4c573cece0ae89ac)
+- Tandem-0.2.1.dmg (sha256: c8822453ee6a1af47e4db8cde8b62cc00f1f5453c219ba6d4c573cece0ae89ac)
 
 ### Features
 
