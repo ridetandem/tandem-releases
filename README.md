@@ -1,6 +1,20 @@
 # tandem-releases
 
 
+## v0.3.1 (Clickity Clack, alpha)
+
+- Tandem-0.3.1.dmg (sha256: ede97a533cb36eac5f268186f2f52528b9694d2b016ac1fde2eb947180d3938e)
+
+### Security fixes
+
+- Key codes/values have been removed from all debug log messages
+- Default log level has been set to WARN
+
+### Features
+
+- Video lag reduced using different codec parameters
+
+
 ## v0.3.0 (Clickity Clack, alpha)
 
 - Tandem-0.3.0.dmg (sha256: 2960ccd876907dc81bb30db74b9a81630cc3b2be5dca829d26a331a1b511addf)
