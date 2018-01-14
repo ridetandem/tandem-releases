@@ -1,11 +1,33 @@
 # tandem-releases
 
 
+## v0.3.2 (Clickity Clack, alpha)
+
+- Tandem-0.3.2.dmg (sha256: 4942ab72f230c38b54e83045691cf1d36eda8f46f6c62c444dd48ef3b3bd17df)
+
+### Features
+
+- Clickity-clack. Clickity-clack! You can now double click!
+
+### Bug Fixes
+
+- Sensitive values are redacted in all log messages by default with optional opt-in via environment variable.
+- Fixed large remote screens being cropped during fullscreen mode on small local screens.
+- Fixed bad application state when closing the remote screen window (both windowed and fullscreen).
+- Fixed occasional MacOS application crash when closing application.
+- Fixed global shortcut re-enable for client when host ended session.
+
+### Misc
+
+- Minor version bump to Electron 1.7.10.
+- Emphasize you are naming the session (and not yourself) when starting a session.
+
+
 ## v0.3.1 (Clickity Clack, alpha)
 
 - Tandem-0.3.1.dmg (sha256: ede97a533cb36eac5f268186f2f52528b9694d2b016ac1fde2eb947180d3938e)
 
-### Security fixes
+### Security Fixes
 
 - Key codes/values have been removed from all debug log messages
 - Default log level has been set to WARN
