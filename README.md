@@ -1,6 +1,27 @@
 # tandem-releases
 
 
+## v0.4.0 (Shiny Glass, alpha)
+
+- Tandem-0.4.0.dmg (sha256: 3a7c7cb79cb57f640b6669cdd2096d95b5ccc7a84b8794268feb838d7304d0d1)
+
+### Features
+
+- Stuck for a session name? Click the 'Generate Random Name' button instead of typing in a name.
+- Show desktop notifications for host when session starts and ends.
+- Display connection information (direct/relayed connection, relay location, round trip time).
+- Added an 'End Session' button that ends... the... session.
+- Now when a connection failed, the reason is shown (instead of showing 'Connecting' indefinitely).
+
+### Bug Fixes
+
+- Fixed issue where the Host/Join button would sometimes disappear after a session ends.
+
+### Misc
+
+- Added links to update instructions and enabling accessibility help pages.
+
+
 ## v0.3.2 (Clickity Clack, alpha)
 
 - Tandem-0.3.2.dmg (sha256: 4942ab72f230c38b54e83045691cf1d36eda8f46f6c62c444dd48ef3b3bd17df)
