@@ -1,5 +1,18 @@
 # tandem-releases
 
+## v0.4.1 (Shiny Glass, alpha)
+
+- Tandem-0.4.1.dmg (sha256: 659b04ebe1265e1112a149e18a8fdc07c6e502246c4aa48b405648951690a9a4)
+
+### Features
+
+- Repeat key presses are detected and transmitted.
+
+### Bug Fixes
+
+- Fixed issue where moving the mouse over a Tandem screen window in the background would capture the mouse movement. Now, mouse movements are only captured when the window is active.
+- Wait until we have a vidoe stream before showing the screen window.
+
 
 ## v0.4.0 (Shiny Glass, alpha)
 
